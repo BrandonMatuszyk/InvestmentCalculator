@@ -33,4 +33,11 @@ To run this application locally on your machine, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/investment-calculator.git
+   git clone https://github.com/BrandonMatuszyk/InvestmentCalculator
+
+ ##  Usage
+1. Enter your current savings, yearly contributions, expected annual return (in percentage), and investment duration (in years) in the input form.
+
+2. Click the "Calculate" button to estimate the growth of your investments.
+
+3. View the results in the interactive results table, which includes details about your savings, interest earned, and invested capital for each year.
