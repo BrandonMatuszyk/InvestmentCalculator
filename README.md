@@ -1,6 +1,6 @@
 # Investment Calculator
 
-![Investment Calculator Logo](https://freepngimg.com/thumb/money/49-dollar-png-image.png)
+![Investment Calculator Logo](https://media.licdn.com/dms/image/D562DAQEL7QX7Azwb_g/profile-treasury-image-shrink_800_800/0/1696524044297?e=1697148000&v=beta&t=Pq7jQF9S3vuJ5VvDso070t6Qleiv71iXMKsQ31ATehw)
 
 Investment Calculator is a simple React application that helps you calculate the growth of your investments over time. You can input your current savings, yearly contributions, expected annual return, and investment duration to estimate your future savings. This repository contains the source code for the application.
 
@@ -21,7 +21,10 @@ Investment Calculator is a simple React application that helps you calculate the
 
 ## Demo
 
-You can try out the Investment Calculator application by visiting the following [demo link](#insert-demo-link-here).
+You can try out the Investment Calculator application by visiting the following [demo link](https://49jvtx-3000.csb.app/
+
+
+View).
 
 ## Getting Started
 
